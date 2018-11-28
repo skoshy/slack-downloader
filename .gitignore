@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+data/
+offset.txt
+token.txt
+config.json
